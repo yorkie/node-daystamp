@@ -20,6 +20,7 @@ daystamp.fromDate(Date.now()) === daystamp.fromDate(d);
 ### API
 
 `.fromDate(Date d)`: get the day stamp from a Date or timestamp
+`.fromNow()`: get the day stamp from now Date
 
 ### License
 
