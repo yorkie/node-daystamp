@@ -2,7 +2,7 @@
 'use strict';
 
 function fromDate (d) {
-  if (!d) d = Date.now();
+  if (d == undefined) d = Date.now();
   return parseInt(d/(1000*60*60*24));
 }
 
