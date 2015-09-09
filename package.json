@@ -1,0 +1,24 @@
+{
+  "name": "daystamp",
+  "version": "1.0.0",
+  "description": "daystamp utilitiy for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yorkie/node-daystamp.git"
+  },
+  "keywords": [
+    "timestamp",
+    "daystamp",
+    "nodejs"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-daystamp/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-daystamp#readme"
+}
